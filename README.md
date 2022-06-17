@@ -12,10 +12,7 @@ We use API for development.
 ###Some of Screen previews: 
 
 ![flash](https://user-images.githubusercontent.com/69708059/174351033-3f8b60eb-4f1c-4973-a130-767a2df9fede.png)
-
 ![login](https://user-images.githubusercontent.com/69708059/174351091-311f34b2-1915-4d4f-9037-ef7445b1aae7.png)
-
-
 ![signup](https://user-images.githubusercontent.com/69708059/174351341-b5ce1ddb-8ed9-4b5e-950c-539044bcb2ea.png)
 ![home](https://user-images.githubusercontent.com/69708059/174351353-d93c603c-201c-45a0-a45f-08a0804ad01b.png)
 ![category list](https://user-images.githubusercontent.com/69708059/174351377-9d51ed26-0bd7-4634-bb94-0fe111578799.png)
